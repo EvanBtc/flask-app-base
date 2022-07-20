@@ -51,6 +51,11 @@ if __name__ == '__main__':
 	app.run(debug=True)
 ```
 
+Set variable
+```
+export FLASK_APP=app/app.py
+```
+
 Finally, you can run your application
 ```
 flask run
