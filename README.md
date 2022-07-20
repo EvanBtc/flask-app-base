@@ -57,12 +57,12 @@ flask run
 ```
 
 ## Create a requirements file
-A requirements file is used to store all packages used in the application. If you change the environement of your application you can reinstall all packages with a simple command.
+A requirements file is used to store all dependencies used in the application. If you change the environement of your application you can reinstall all dependencies with a simple command.
 ```
 pip3 freeze > requirements.txt
 ```
 
-For reinstall all packages in the new environement
+For reinstall all dependencies in the new environement
 ```
 pip3 install -r requirements.txt
 ```
