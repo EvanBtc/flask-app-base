@@ -38,7 +38,7 @@ deactivate
 
 # Install Flask
 
-After were in the virtual environment, we can install flask
+After we are in the virtual environment, we can install flask
 ```
 pip3 install flask
 ```
