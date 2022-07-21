@@ -36,6 +36,13 @@ python3 -m venv venv
 deactivate
 ```
 
+# Install Flask
+
+After were in the virtual environment, we can install flask
+```
+pip3 install flask
+```
+
 # Create application file
 Now we can create *app.py* file, and to have a basic website, use this configuration
 ```
